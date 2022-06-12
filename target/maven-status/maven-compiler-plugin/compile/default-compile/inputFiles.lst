@@ -1,4 +1,14 @@
-D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\common\exceptions\BaseException.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\service\DocumentService.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\common\exceptions\ErrorDetails.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\common\exceptions\handler\RestResponseEntityExceptionHandler.java
 D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\TestController.java
 D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\CogneraTestApplication.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\common\exceptions\ApiError.java
 D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\common\swagger\SwaggerConfig.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\service\DocumentServiceImpl.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\service\Vertex.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\common\exceptions\DocumentFileNotFoundException.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\common\exceptions\BaseException.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\service\GraphService.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\service\Graph.java
+D:\Work\Development\Java\Exams\cognera-test\src\main\java\com\bk\cogneratest\service\GraphServiceImpl.java

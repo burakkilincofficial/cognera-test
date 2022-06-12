@@ -1,4 +1,14 @@
-com\bk\cogneratest\CogneraTestApplication.class
-com\bk\cogneratest\common\exceptions\BaseException.class
+com\bk\cogneratest\service\DocumentServiceImpl.class
+com\bk\cogneratest\service\Graph.class
 com\bk\cogneratest\common\swagger\SwaggerConfig.class
 com\bk\cogneratest\TestController.class
+com\bk\cogneratest\common\exceptions\DocumentFileNotFoundException.class
+com\bk\cogneratest\common\exceptions\BaseException.class
+com\bk\cogneratest\service\DocumentService.class
+com\bk\cogneratest\common\exceptions\handler\RestResponseEntityExceptionHandler.class
+com\bk\cogneratest\service\Vertex.class
+com\bk\cogneratest\CogneraTestApplication.class
+com\bk\cogneratest\common\exceptions\ErrorDetails.class
+com\bk\cogneratest\common\exceptions\ApiError.class
+com\bk\cogneratest\service\GraphService.class
+com\bk\cogneratest\service\GraphServiceImpl.class
