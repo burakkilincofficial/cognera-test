@@ -1,0 +1,4 @@
+com\bk\cogneratest\CogneraTestApplication.class
+com\bk\cogneratest\common\exceptions\BaseException.class
+com\bk\cogneratest\common\swagger\SwaggerConfig.class
+com\bk\cogneratest\TestController.class

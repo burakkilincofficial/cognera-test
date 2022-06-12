@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "c2b3a762-18b0-4bb6-934c-fe68460fae39",
+		"name": "Cognera",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11435463"
+	},
+	"item": [
+		{
+			"name": "word-count",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "document-similarity",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "graph-query-find-nodes",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
